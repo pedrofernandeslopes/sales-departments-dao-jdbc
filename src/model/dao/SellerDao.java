@@ -1,6 +1,7 @@
 package model.dao;
 
 import model.entities.Seller;
+import model.entities.Department;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -24,6 +25,11 @@ public class SellerDao {
     }
 
     public List<Seller> findAll() {
+        System.out.println("Seller found!");
+        return new ArrayList<>();
+    }
+
+    public List<Seller> findByDepartment(Department department) {
         System.out.println("Seller found!");
         return new ArrayList<>();
     }
