@@ -15,7 +15,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class SellerDaoJDBC extends SellerDao {
+public class SellerDaoJDBC implements SellerDao {
 
     private Connection conn;
 
