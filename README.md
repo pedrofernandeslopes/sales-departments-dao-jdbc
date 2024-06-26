@@ -4,7 +4,8 @@ Este projeto implementa um sistema de gerenciamento de vendedores e departamento
 
 ## Estrutura do Projeto
 
-![image](![image](https://github.com/pedrofernandeslopes/vendedores-departamentos-dao-jdbc/assets/107598871/4b049b20-cee6-4721-a6e7-0483ad11fb2e)
+![image](https://github.com/pedrofernandeslopes/vendedores-departamentos-dao-jdbc/assets/107598871/b619a798-4f04-4586-9f1b-48cdd9a290f0)
+
 
 ### Padrão DAO
 
